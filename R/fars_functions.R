@@ -1,5 +1,5 @@
 #  ----------------------------------------------------------------------------
-#  COURSERA: BUILDING R PACKAGES
+#  COURSERA: BUILDING R PACKAGES 1
 #  Peer-graded Assignment
 #  File: fars_functions.R
 #  (c) 2017 - Enrique Pérez Herrero
