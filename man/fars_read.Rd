@@ -32,7 +32,7 @@ For more information, see:
 To generate file name use: \code{\link{make_filename}}
 }
 \examples{
-library(dplyr)
+library(dplyr) #
 library(readr)
 yr <- 2015
 data <- yr \%>\%
