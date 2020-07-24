@@ -1,8 +1,5 @@
 # COURSERA: BUILDING R PACKAGES
 Peer-graded Assignment   
-Enrique Pérez Herrero   
-email: eph.project1500@gmail.com   
-GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007   
 
 [![Build Status](https://travis-ci.org/EnriquePH/FARS.svg?branch=master)](https://travis-ci.org/EnriquePH/FARS) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/EnriquePH/FARS?branch=master&svg=true)](https://ci.appveyor.com/project/EnriquePH/FARS)
 
